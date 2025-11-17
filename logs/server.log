@@ -1,0 +1,31 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [246] using StatReload
+INFO:     Started server process [248]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:49494 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49498 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49514 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49096 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:49104 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49108 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49114 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49126 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49104 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49108 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49104 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48060 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48044 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48066 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48080 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48060 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48044 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48060 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49128 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49132 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49146 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49128 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49132 - "GET /api/fleet HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49146 - "GET /api/testimonials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49128 - "GET /api/fleet HTTP/1.1" 200 OK
